@@ -191,88 +191,19 @@ button:hover{
     transform: scale(200);
 }
 
-#modal{
-    position: fixed;
-    z-index: 1000;
-    top: 0;
-    left: 0;
-    display:none;
-    justify-content: center;
-    align-items: center;
-    width: 100%;
-    height: 100%;
-    background-color: rgba(255, 255, 255, 0.4);
-     min-width: 200px;
-    
-}
 
-.contenido-modal{
-    position: relative;
-    width: 90%;
-    height: 750px;
-    display: none;
-    background-color: var(--primario);
-    padding: 10px;
-    display: flex;
-    opacity: 0;
-    transform: translateY(-100px);
-    transition: all 2s ease-in-out;   
-    
-}
-.closed{
-    position: absolute;
-   right: 2px;
-  top: 4px;
-  transition: all 0.4s ease-in-out;
-  cursor: pointer;
-  
-
-}
-.closed:hover{
- transform: rotate(90deg);
- color: var(--blanco);
-}
-
-.mi-ifr{
-    width: 90%;
-    height: 650px;
-    margin: 5%;
-    background-color: var(--blanco);
-    max-width: 100%;
-    max-height: 100%;
-}
 /*Tamaño de pantallas medianas (Tablets)*/
 @media (min-width: 768px) {
  .cuerpo{
     width: 40%;
  }
- #modal{
-    width: 100%;
-    height: 100%;
- }
- .contenido-modal{
-    width: 70%;
-    
- }
- .closed{
-    margin: 4px;
- }
+
+
 }
 /*Tamaño de pantallas grandes (PC en adelante) */
 @media (min-width: 1420px) {
  .cuerpo{
     width: 24%;
- }
-  #modal{
-    width: 100%;
-    height: 100%;
- }
-  .contenido-modal{
-    width: 70%;
-  
- }
-  .closed{
-    margin: 10px;
  }
 
 }

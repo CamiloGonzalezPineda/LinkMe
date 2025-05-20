@@ -22,17 +22,20 @@ function carg(url) {
 
   //Tiempo de carga 
     setTimeout(() => {
-          window.location.href = url 
+        
         contt.classList.remove('butterfly')
     }, 2000);
 
 
     setTimeout(() => {
         car.classList.remove('carr')
+          window.location.href = url 
     }, 2600);
     
 }document.querySelectorAll('[data-url]').forEach(btn => {
-    btn.addEventListener('click', () => {
+    
+    btn.addEventListener('click', (e) => {
+        e.preventDefault()
         const url = btn.getAttribute('data-url')
         carg(url)
     })

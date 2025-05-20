@@ -22,7 +22,7 @@ function carg(url) {
 
   //Tiempo de carga 
     setTimeout(() => {
-        window.open(url,'_blank', 'noopener,noreferrer')
+          window.location.href = url 
         contt.classList.remove('butterfly')
     }, 2000);
 

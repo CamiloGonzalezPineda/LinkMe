@@ -22,7 +22,7 @@ function carg(url) {
 
   //Tiempo de carga 
     setTimeout(() => {
-        
+
         contt.classList.remove('butterfly')
     }, 2000);
 

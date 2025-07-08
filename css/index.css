@@ -180,24 +180,25 @@ button:hover{
 
 }
 .conta{
+    position: fixed ;
     width: 10px;
     height: 10px;
     border-radius: 50%;
     background-color:var(--secundario);
     transition: all 2s ease-in-out;
+    overflow: hidden;
    
 }
 .conta.butterfly{
     transform: scale(200);
-}
 
+}
 
 /*Tamaño de pantallas medianas (Tablets)*/
 @media (min-width: 768px) {
  .cuerpo{
     width: 40%;
  }
-
 
 }
 /*Tamaño de pantallas grandes (PC en adelante) */

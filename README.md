@@ -8,7 +8,7 @@ Accede al sitio en producción aquí:
 👉 [https://camilogonzalezpineda.github.io/LinkMe/](https://camilogonzalezpineda.github.io/LinkMe/)
 
 
-## 🚀 Tecnologías utilizadas
+## 🚀 Tecnologías utilizadas 
 
 El proyecto se ha desarrollado utilizando las siguientes tecnologías y herramientas modernas:
 

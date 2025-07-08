@@ -16,7 +16,7 @@ El proyecto se ha desarrollado utilizando las siguientes tecnologías y herramie
 
 - **HTML5** – Estructura semántica optimizada.
 - **CSS3** – Estilos responsivos y adaptables a cualquier resolución.
-- **JavaScript Vanilla** – Comportamientos dinámicos.
+- **JavaScript Vanilla** – Comportamientos dinámicos. 
 - **GitHub Pages** – Hosting gratuito y despliegue continuo.
 
 ---

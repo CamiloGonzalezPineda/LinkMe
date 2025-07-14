@@ -2,13 +2,13 @@
 
 LinkMe es una aplicación web sencilla y moderna que centraliza enlaces a perfiles de redes sociales y recursos personales en un solo lugar, con un diseño minimalista y responsive adaptado a cualquier dispositivo.
 
-## 🌐 Demo en producción
+## Demo en producción
 
 Accede al sitio en producción aquí:  
-👉 [https://camilogonzalezpineda.github.io/LinkMe/](https://camilogonzalezpineda.github.io/LinkMe/)
+[https://camilogonzalezpineda.github.io/LinkMe/](https://camilogonzalezpineda.github.io/LinkMe/)
 
 
-## 🚀 Tecnologías utilizadas 
+## Tecnologías utilizadas 
 
 El proyecto se ha desarrollado utilizando las siguientes tecnologías y herramientas modernas:
 
@@ -19,7 +19,7 @@ El proyecto se ha desarrollado utilizando las siguientes tecnologías y herramie
 
 ---
 
-## 🎯 Funcionalidades principales
+## Funcionalidades principales
 
 ✅ Diseño limpio, profesional y responsive.  
 ✅ Enlaces directos a redes sociales.  
